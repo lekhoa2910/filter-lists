@@ -1,3 +1,8 @@
+! Title: Movie
+! Expires: 1 days
+! Description: Movie
+! Homepage: https://github.com/lekhoa2910/filter-lists
+
 1001vieclam.com##tr:has([href^="/55129/nhan-vien-tu-van-cham-soc-khach-hang-qua-dien-thoai.html"])
 1001vieclam.com##tr:has([href^="/62941/sale-online.html"])
 1001vieclam.com##tr:has([href^="/63795/nhan-vien-kinh-doanh.html"])
