@@ -1,6 +1,6 @@
-! Title: Job filters
+! Title: 1001vieclam.com
 ! Expires: 1 day (update frequency)
-! License: https://raw.githubusercontent.com/lekhoa2910/filter-lists/main/LICENSE
+! License: https://github.com/lekhoa2910/filter-lists/blob/main/LICENSE
 ! Homepage: https://github.com/lekhoa2910/filter-lists
 
 1001vieclam.com##tr:has([href*="/55129/nhan-vien-tu-van-cham-soc-khach-hang-qua-dien-thoai.html"])
