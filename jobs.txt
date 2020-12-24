@@ -1,6 +1,6 @@
-! Title: Movie
-! Expires: 1 days
-! Description: Movie
+! Title: Movie filters
+! Expires: 7 days (update frequency)
+! License: https://raw.githubusercontent.com/lekhoa2910/filter-lists/main/LICENSE
 ! Homepage: https://github.com/lekhoa2910/filter-lists
 
 1001vieclam.com##tr:has([href^="/55129/nhan-vien-tu-van-cham-soc-khach-hang-qua-dien-thoai.html"])
