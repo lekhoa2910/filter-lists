@@ -1,3 +1,8 @@
+! Title: Movie filters
+! Expires: 1 day (update frequency)
+! License: https://github.com/lekhoa2910/filter-lists/blob/main/LICENSE
+! Homepage: https://github.com/lekhoa2910/filter-lists
+
 www.metacritic.com##tr:has([href="/movie/4-little-girls"])
 www.metacritic.com##tr:has([href="/movie/5b"])
 www.metacritic.com##tr:has([href="/movie/7-days-in-september"])
