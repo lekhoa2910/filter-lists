@@ -1,4 +1,4 @@
-! Title: Movie
+! Title: Movies
 ! Expires: 1 day (update frequency)
 ! License: https://github.com/lekhoa2910/filter-lists/blob/main/LICENSE
 ! Homepage: https://github.com/lekhoa2910/filter-lists
