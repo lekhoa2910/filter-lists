@@ -1,5 +1,5 @@
-! Title: Movie filters
-! Expires: 7 days (update frequency)
+! Title: Job filters
+! Expires: 1 day (update frequency)
 ! License: https://raw.githubusercontent.com/lekhoa2910/filter-lists/main/LICENSE
 ! Homepage: https://github.com/lekhoa2910/filter-lists
 
@@ -27,3 +27,4 @@
 1001vieclam.com##tr:has([href*="/65481/nhan-vien-kinh-doanh.html"])
 1001vieclam.com##tr:has([href*="/65482/nhan-vien-van-phong.html"])
 1001vieclam.com##tr:has([href*="/65526/nhan-vien-cham-soc-khach-hang-gio-hanh-chinh.html"])
+1001vieclam.com##tr:has([href*="/65577/nhan-vien-telesales.html"])
