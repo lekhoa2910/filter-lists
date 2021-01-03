@@ -255,13 +255,16 @@ zam.com
 ||*/get_midroll_info$important
 ||*/jquery.adblock-detector.js$important
 ||*/like.php$important
+||*/keyseo$important
 ||*/pagead/*$important
 ||*/plusone.js$important
 ||*/pre-11bet.xml$important
 ||*/pre-b52.xml$important
 ||*/ptracking$important
+||*/tracker$important
 ||*/tracking/*$important
 ||*/upload-banner/*$important
 ||*/vietcv-ad-tall-2x.png$important
 ||*/watchtime$important
 ||*/wp-content/themes/*/ad/*$important
+
