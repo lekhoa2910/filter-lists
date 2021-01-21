@@ -3,33 +3,84 @@
 ! License: https://github.com/lekhoa2910/filter-lists/blob/main/LICENSE
 ! Homepage: https://github.com/lekhoa2910/filter-lists
 
-play.hydracdn.network##+js(nosiif, devtoolsOpen)
-play.hydracdn.network##+js(nowoif, /^/, 1)
 ###ads-l-post
 ###ads-top
 ###adsense
+###adtoniq-msgr-bar
 ###banner-add-lixi88
 ###bottomads
+###catapult-cookie-bar
+###ccc
+###cookie-law-info-bar
+###cookie-notice
+###cookie-policy
+###eu-cookie-law
 ###fixedban
+###gdpr-cookie-message
+###google-bottom-ads
+###google-top-ads
+###hs-eu-cookie-confirmation
+###no-results-banner
+###onetrust-banner-sdk
 ###promote-banner
+##.adobe-coupon-container
 ##.ads
 ##.adsbygoogle
 ##.ads_banner_img
+##.advertisement
 ##.ad_location
+##.alert_background_coockies
 ##.banad
+##.banner-3
 ##.banner-mobile-300-250-pc
 ##.banner-noti-browser
 ##.banner-single-ads
 ##.banner_ads
 ##.box-banner
 ##.box-banner-pc
+##.box-free-trial
+##.bs-wrap-gdpr-law
+##.cc-window
+##.cc_banner-wrapper
+##.code-block:has([id*="banner"])
+##.convertflow-cta
+##.cookie-notice
+##.cookie-notification
+##.cookie-revoke-hidden
+##.cookies-bar
+##.cookiesdiv
+##.cookie_notification
+##.cr-group-tr-cs-carousal
+##.cta-ads-block-inline
+##.desktop-ads
+##.eu-cookie-compliance-banner
+##.experiment-tag-search-ad-placement__elements
+##.feedback
+##.floating-banner
+##.footer__cookie
+##.free-webinar-reg-box
+##.hide-premium
+##.js-feedback-btn-wrap
 ##.jw-related-shelf-container
+##.lecture-course-popup
+##.mf-cookie-banner
+##.newsletter-section
+##.no-results__tips
 ##.overlay-ad
 ##.player-banner
+##.promo__banner
+##.r-sub-s
 ##.rpa__ads
 ##.sda-preload-popup-overlay
 ##.sda-wrapper
+##.section-unica-course
+##.showcase-spr
+##.sponsored
+##.trending-courses
+##.wt-cli-cookie-bar-container
 ##[alt^="banner-"]
+##[data-module="cookie-settings"]
+##[href*="utm_medium=banner"]
 2mdn.net
 3lift.com
 11bet.win
@@ -50,6 +101,7 @@ adnow.com
 adnxs.com
 adop.cc
 adpia.vn
+adrecover.com
 ads.careerbuilder.vn
 ads1.careerbuilder.vn
 ads5-adnow.com
@@ -91,6 +143,7 @@ codedexchange.com
 codon.vn
 consensu.org
 contineljs.com
+convizit.com
 course-vn.joboko.com
 creativecdn.com
 criteo.com
@@ -101,6 +154,7 @@ ddmax20.xyz
 demdex.net
 denetsuk.com
 deqik.com
+difficultshapesupply-11.live
 dmca.com
 dolohen.com
 doubleclick.net
@@ -110,6 +164,7 @@ efootball.me
 emarsys.net
 ematicsolutions.com
 emsuppitypuff.icu
+fabet.info
 fakinggivewacko.com
 fcbongda.com
 five88.biz
@@ -118,6 +173,7 @@ fullstory.com
 fun6668.com
 gamedabet.com
 gamhay8live.net
+getresponse.com
 go-mpulse.net
 go88vn.vip
 gooblesdd.com
@@ -140,6 +196,7 @@ indexww.com
 indicative.com
 innity.com
 inpagepush.com
+intercom.io
 invol.co
 ipinfo.io
 iqbroker.co
@@ -151,6 +208,8 @@ lavanetwork.net
 leftoverdense.com
 lijit.com
 lodedabet.com
+mailerlite.com
+media.net
 media.vodcdn.xyz
 mepuzz.com
 mgid.com
@@ -174,10 +233,13 @@ onesignal.com
 onetouch6.com
 onetrust.com
 openx.net
+opmnstr.com
 oxbet.com
 pawnorderpampas.work
 peppy2lon1g1stalk.com
 perfectmarket.com
+play.hydracdn.network##+js(nosiif, devtoolsOpen)
+play.hydracdn.network##+js(nowoif, /^/, 1)
 playgamefa88.live
 pouluwie.net
 powerlinks.com
@@ -195,6 +257,7 @@ s-onetag.com
 scarabresearch.com
 scorecardresearch.com
 scorecardreserch.com
+segment.com
 sentry-track.vietnamworks.com
 sharethis.com
 simpli.fi
@@ -228,7 +291,9 @@ vietid.net
 vkcdn.online
 vntsm.com
 vuabongda.top
+vwinfast.com
 w388.com
+watch-video.net
 wilfulpessimistic.com
 www.dd7.xyz
 x8vn.com
@@ -239,8 +304,10 @@ yomedia.vn
 yourwownewz.com
 zaloapp.com
 zam.com
+||*.careerbuilder.vn/*/1562898006_9b14ee602fc76d41e403c15fe4970ae7.js$important
 ||*.ybox.vn/graphql?query={*AdsVersions{*}*}$important
 ||*/789club.php$important
+||*/ad/*$important
 ||*/ads$important
 ||*/ads.xml$important
 ||*/adsense/*$important
@@ -249,14 +316,18 @@ zam.com
 ||*/b52.mp4$important
 ||*/b52.php$important
 ||*/bann.js$important
+||*/byeiq-vi$important
 ||*/dk?cmd=videoStatNew$important
 ||*/five88.php$important
+||*/ga.js$important
 ||*/gd-hardsell-content-wall.bundle.js$important
 ||*/get_midroll_info$important
+||*/google-analytics-for-wordpress/*$important
 ||*/jquery.adblock-detector.js$important
-||*/like.php$important
 ||*/keyseo$important
+||*/like.php$important
 ||*/pagead/*$important
+||*/pinit.js$important
 ||*/plusone.js$important
 ||*/pre-11bet.xml$important
 ||*/pre-b52.xml$important
@@ -266,5 +337,4 @@ zam.com
 ||*/upload-banner/*$important
 ||*/vietcv-ad-tall-2x.png$important
 ||*/watchtime$important
-||*/wp-content/themes/*/ad/*$important
-
+||proqa-search-api.thinksys.com/*$important
