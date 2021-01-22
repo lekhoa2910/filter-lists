@@ -336,5 +336,4 @@ zam.com
 ||*/tracking/*$important
 ||*/upload-banner/*$important
 ||*/vietcv-ad-tall-2x.png$important
-||*/watchtime$important
 ||proqa-search-api.thinksys.com/*$important
