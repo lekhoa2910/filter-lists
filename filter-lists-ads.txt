@@ -112,7 +112,7 @@
 ##[href*="utm_medium=banner"]
 ##[playsinline]
 www.twitch.tv#@#[playsinline]
-@@||ads.txt$1p$domain=github.com
+@@||ads.txt$domain=github.com
 ads.*
 ads1.*
 ads2.*
