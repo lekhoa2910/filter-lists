@@ -110,7 +110,10 @@
 ##[data-cookie-expire]
 ##[data-module="cookie-settings"]
 ##[href*="utm_medium=banner"]
-##[playsinline]
+##[playsinline]$domain=www.twitch.tv
+ads.*$domain=github.com
+ads1.*
+ads2.*
 *.biz
 *.br
 *.cam
