@@ -110,9 +110,7 @@
 ##[data-cookie-expire]
 ##[data-module="cookie-settings"]
 ##[href*="utm_medium=banner"]
-##[playsinline]
-www.twitch.tv#@#[playsinline]
-@@||*/filter-lists-ads.txt$1p
+@@||*/filter-lists-ads.txt$domain=github.com
 ads.*
 ads1.*
 ads2.*
