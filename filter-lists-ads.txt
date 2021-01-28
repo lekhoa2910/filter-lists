@@ -147,9 +147,7 @@ adnow.com
 adnxs.com
 adpia.vn
 adrecover.com
-ads.*
-ads1.*
-ads2.*
+
 ads5-adnow.*
 adsafety.net
 adsconverts.com
