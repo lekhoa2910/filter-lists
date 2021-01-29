@@ -118,7 +118,6 @@ ads2.*
 *.br
 *.cam
 *.casa
-*.cc
 *.club
 *.fi
 *.fun
