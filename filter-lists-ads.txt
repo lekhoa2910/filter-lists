@@ -37,7 +37,7 @@
 ###oupcookiepolicy_message
 ###promote-banner
 ##.adobe-coupon-container
-##.ads
+##.ads$domain=www.mediafire.com
 ##.adsbygoogle
 ##.ads_banner_img
 ##.advertisement
