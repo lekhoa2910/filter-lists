@@ -119,7 +119,7 @@ ads2.*
 *.br
 *.cam
 *.casa
-*.club
+
 *.fi
 *.fun
 *.icu
