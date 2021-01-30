@@ -130,7 +130,7 @@ ads2.*
 *.vip
 *.win
 *.work
-*.xyz
+
 2mdn.net
 3lift.com
 360yield.com
