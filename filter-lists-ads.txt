@@ -3,6 +3,7 @@
 ! License: https://github.com/lekhoa2910/filter-lists/blob/main/LICENSE
 ! Homepage: https://github.com/lekhoa2910/filter-lists
 
+
 ###ads-l-post
 ###ads-razordesktop
 ###ads-top
@@ -14,6 +15,7 @@
 ###bottomads
 ###catapult-cookie-bar
 ###ccc
+###cookie-accept-footer
 ###cookie-law-info-bar
 ###cookie-notice
 ###cookie-policy
@@ -22,6 +24,7 @@
 ###cookieMessageContainer
 ###cookienotify
 ###cookies
+###cookie_box
 ###CybotCookiebotDialog
 ###eu-cookie-law
 ###fixedban
@@ -36,9 +39,12 @@
 ###onetrust-banner-sdk
 ###oupcookiepolicy_message
 ###promote-banner
+###sliding-popup:has(.eu-cookie-compliance-default-button)
+###topAdv
+##.ad-c-label
+##.ad-label
 ##.adobe-coupon-container
 ##.ads
-www.mediafire.com#@#.ads
 ##.adsbygoogle
 ##.ads_banner_img
 ##.advertisement
@@ -68,6 +74,7 @@ www.mediafire.com#@#.ads
 ##.cookiePolicy-popup
 ##.cookies-bar
 ##.cookies-section
+##.cookies-warning
 ##.cookiesdiv
 ##.cookie_notification
 ##.copyright
@@ -111,30 +118,26 @@ www.mediafire.com#@#.ads
 ##[data-cookie-expire]
 ##[data-module="cookie-settings"]
 ##[href*="utm_medium=banner"]
-@@||*/filter-lists-ads.txt$domain=github.com
-ads.*
-ads1.*
-ads2.*
 *.biz
 *.br
 *.cam
 *.casa
-
 *.fi
 *.fun
 *.icu
 *.live
 *.ms
 *.pw
+*.racing
 *.top
 *.vip
 *.win
 *.work
-
 2mdn.net
 3lift.com
 360yield.com
 9656t.com
+@@||*/filter-lists-ads.txt$domain=github.com
 aaxads.com
 ad-delivery.net
 addthis.com
@@ -150,7 +153,9 @@ adnow.com
 adnxs.com
 adpia.vn
 adrecover.com
-
+ads.*
+ads1.*
+ads2.*
 ads5-adnow.*
 adsafety.net
 adsconverts.com
@@ -171,6 +176,7 @@ ants.vn
 anyclip.com
 apitvh.net
 appsflyer.com
+autoads.asia
 awaitcola.com
 bebi.com
 bebreloomr.com
@@ -245,6 +251,7 @@ iqbroker.co
 iqbroker.com
 itvalleynews.com
 iubenda.com
+jomtingi.net
 justpremium.com
 kyna.vn
 lavanetwork.net
@@ -252,6 +259,7 @@ leftoverdense.com
 lijit.com
 lodedabet.com
 mailerlite.com
+mangaplus.shueisha.co.jp##.styles-module_container_1h4NA
 media.net
 mepuzz.com
 mgid.com
@@ -270,23 +278,31 @@ nhacaisky88.com
 nitropay.com
 omappapi.com
 omtrdc.net
+onclickalgo.com
 onclickgenius.com
+onclickperformance.com
 onemboaran.com
 onesignal.com
+onetag-sys.com
 onetouch6.com
 onetrust.com
+onmarshtompor.com
 openx.net
 opmnstr.com
 oxbet.com
+peevopoy.com
 peppy2lon1g1stalk.com
 perfectmarket.com
+pignuwoa.com
 play.hydracdn.network##+js(nosiif, devtoolsOpen)
 play.hydracdn.network##+js(nowoif, /^/, 1)
 pouluwie.net
 powerlinks.com
 pubmatic.com
+pushgaga.com
 quantcount.com
 quantserve.com
+quantumdex.io
 red88.com
 remarketingpixel.com
 rnorlexanderly.info
@@ -300,7 +316,10 @@ scorecardreserch.com
 segment.com
 sentry-track.vietnamworks.com
 sharethis.com
+skimegcolder.com
 sky88.com
+smartadserver.com
+smartlook.com
 sodo14.com
 sonobi.com
 sourcetobin.com
@@ -335,7 +354,10 @@ vntsm.com
 vwinfast.com
 w388.com
 watch-video.net
+whugesto.net
 wilfulpessimistic.com
+www.codementor.io##.jsx-4132240951
+www.mediafire.com#@#.ads
 x8vn.com
 xgtef.com
 yieldmo.com
