@@ -350,7 +350,6 @@ watch-video.net
 whugesto.net
 wilfulpessimistic.com
 www.codementor.io##.jsx-4132240951
-www.mediafire.com#@#.ads
 x8vn.com
 xgtef.com
 yieldmo.com
@@ -388,7 +387,7 @@ zam.com
 ||*/pre-11bet.xml$important
 ||*/pre-b52.xml$important
 ||*/ptracking$important
-||*/tracker$important
+||*/tracking/*$important
 ||*/upload-banner/*$important
 ||*/vietcv-ad-tall-2x.png$important
 ||proqa-search-api.thinksys.com/*$important
