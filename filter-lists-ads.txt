@@ -3,7 +3,6 @@
 ! License: https://github.com/lekhoa2910/filter-lists/blob/main/LICENSE
 ! Homepage: https://github.com/lekhoa2910/filter-lists
 
-
 ###ads-l-post
 ###ads-razordesktop
 ###ads-top
@@ -11,11 +10,13 @@
 ###adtoniq-msgr-bar
 ###banner-add-lixi88
 ###banner_macau-desktop
+###block-elcagdpr
 ###blog-subscribe-status
 ###bottomads
 ###catapult-cookie-bar
 ###ccc
 ###cookie-accept-footer
+###cookie-agreement
 ###cookie-law-info-bar
 ###cookie-notice
 ###cookie-policy
@@ -26,14 +27,19 @@
 ###cookies
 ###cookie_box
 ###CybotCookiebotDialog
+###div-gpt-ad-1594203082552-0
 ###eu-cookie-law
 ###fixedban
+###gdpr-alert
+###gdpr-banner
+###gdpr-cookie-consent-bar
 ###gdpr-cookie-message
 ###google-bottom-ads
 ###google-top-ads
 ###hs-eu-cookie-confirmation
 ###icegram_messages_container
 ###iubenda-cs-banner
+###js_cookie-monster
 ###moove_gdpr_cookie_info_bar
 ###no-results-banner
 ###onetrust-banner-sdk
@@ -66,12 +72,18 @@
 ##.code-block:has(#ad7)
 ##.code-block:has([id*="banner"])
 ##.convertflow-cta
+##.Cookie
+##.cookie-bar-wrap
 ##.cookie-consent
+##.cookie-disclaimer-container
 ##.cookie-notice
 ##.cookie-notification
+##.cookie-policy
 ##.cookie-revoke-hidden
+##.CookieConsent
 ##.cookieN
 ##.cookiePolicy-popup
+##.cookies
 ##.cookies-bar
 ##.cookies-section
 ##.cookies-warning
@@ -90,13 +102,17 @@
 ##.free-webinar-reg-box
 ##.fusion-privacy-bar-bottom
 ##.gdpr-privacy-bar
+##.GdprBanner
 ##.hide-premium
 ##.js-feedback-btn-wrap
+##.js-notification-cookies
 ##.jw-related-shelf-container
 ##.lecture-course-popup
 ##.mf-cookie-banner
+##.modal-cookies
 ##.newsletter-section
 ##.no-results__tips
+##.notice--cookie
 ##.overlay-ad
 ##.PageProjectViewLogout-fixedBanner
 ##.player-banner
@@ -205,6 +221,7 @@ fakinggivewacko.com
 fb88viet.com
 fcbongda.com
 feewoajy.net
+five88.biz
 fullstory.com
 fun6668.com
 gamedabet.com
