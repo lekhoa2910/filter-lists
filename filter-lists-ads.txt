@@ -50,7 +50,7 @@
 ##.ad-c-label
 ##.ad-label
 ##.adobe-coupon-container
-##.ads
+##[class="ads"])
 ##.adsbygoogle
 ##.ads_banner_img
 ##.advertisement
