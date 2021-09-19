@@ -372,7 +372,6 @@ xgtef.com
 yieldmo.com
 yomedia.vn
 yourwownewz.com
-zaloapp.com
 zam.com
 ||*.careerbuilder.vn/*/1562898006_9b14ee602fc76d41e403c15fe4970ae7.js$important
 ||*.ybox.vn/graphql?query={*AdsVersions{*}*}$important
